@@ -1,0 +1,13 @@
+<?xml version = "1.0"?>
+<university>
+	<student>
+		<id>122234</id>
+		<name>Jack Carh</name>
+		<room>111</room>
+	</student>
+	<student>
+		<id>32312</id>
+		<name>Peter Jackson</name>
+		<room>32</room>
+	</student>
+</university>
